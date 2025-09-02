@@ -1,0 +1,26 @@
+{
+  "name": "rest-api-node",
+  "version": "1.0.0",
+  "description": "Build a simple REST API using Node.js with Express for the back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaroleYolande/rest-api-node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaroleYolande/rest-api-node.js/issues"
+  },
+  "homepage": "https://github.com/CaroleYolande/rest-api-node.js#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "firebase": "^12.0.0",
+    "firebase-admin": "^13.4.0"
+  }
+}
